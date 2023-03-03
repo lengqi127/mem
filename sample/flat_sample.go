@@ -7,7 +7,7 @@ import(
     "unsafe"
     //"strconv"
     //"assert"
-    "github.com/freboat/gomem/mem"
+    "github.com/lengqi127/mem/mem"
 )
 
 type Student struct {
