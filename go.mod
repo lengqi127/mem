@@ -1,1 +1,1 @@
-module github.com/lengqi127/mem
+module github.com/freboat/mem
